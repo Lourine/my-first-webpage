@@ -12,5 +12,4 @@ So far the only Markup langiage that has been used is HTML
 ## Support and contact details
 Incase of any queries contact me lourine.milicent@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) 2020
+MIT Copyright (c) 2020
